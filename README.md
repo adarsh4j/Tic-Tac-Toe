@@ -17,7 +17,7 @@ A simple Tic-Tac-Toe game built using React.js.
 ## Installation and Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tictactoe-react.git
+   git clone https://github.com/adarsh4j/tictactoe-react.git
    ```
 2. Navigate to the project directory:
    ```sh
