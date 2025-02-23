@@ -53,6 +53,19 @@ A simple Tic-Tac-Toe game built using React.js.
 ├── 📄 README.md
 ```
 
-## Live Demo
-[Demo Link](https://your-live-demo-link.com)
+## 📸 Screenshots
+
+### 🏁 Starting  
+![Screenshot from 2025-02-23 23-56-15](https://github.com/user-attachments/assets/c69dea21-534a-4df7-9543-b843e5add85c)
+
+---
+
+### 🏆 Winner  
+ ![Screenshot from 2025-02-23 23-56-33](https://github.com/user-attachments/assets/f395dfdb-771e-43aa-8a04-2f14e6643769)
+
+---
+
+### 🤝 Draw  
+![Screenshot from 2025-02-23 23-56-59](https://github.com/user-attachments/assets/b5300e6c-5980-4eca-9414-0543f0ef2e87)
+
 
