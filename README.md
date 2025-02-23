@@ -21,7 +21,7 @@ A simple Tic-Tac-Toe game built using React.js.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd tictactoe-react
+   cd tic-tac-toe
    ```
 3. Install dependencies:
    ```sh
